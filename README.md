@@ -28,8 +28,6 @@ COVID-19의 영향으로 비대면 수업방식이 장기화되면서, 실습수
 
    4. AWS EC2를 활용한 클라우드 서버 구축
 
-test
-
 # Milestone
 
 https://docs.google.com/spreadsheets/d/1FKokFCC-66SFoaIpZZ8rFgS9MYB5Ty6iQVi-LQxiMfg/edit#gid=1115838130
